@@ -1,5 +1,5 @@
 # Sistema Integrado – Clínica, Eventos e Restaurante  
-Projeto de Programação Orientada a Objetos (POO2) – Java
+Projeto de Programação Orientada a Objetos (POO) – Java
 
 Este projeto simula um sistema integrado composto por **três módulos principais**:  
 - **Clínica médica**  
@@ -101,4 +101,4 @@ System.out.println(m.pacienteMaiorGastoRestaurante());
 
 ##  Autor
 Desenvolvido por **Nicolas Ferreira**  e **Leonardo Cireno**
-Projeto para a disciplina de **Programação Orientada a Objetos II (POO2)**.
+Projeto para a disciplina de **Programação Orientada a Objetos (POO)**.
