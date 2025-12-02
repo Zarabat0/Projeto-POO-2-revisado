@@ -65,7 +65,7 @@ Isso demonstra **integração entre serviços** e uso correto de **POO + regras 
 ###  Executar via IDE
 1. Abrir o projeto  
 2. Garantir que o SDK está configurado  
-3. Rodar a classe `Main` (se houver) ou os serviços para testes
+3. Rodar a classe `Main` ou os serviços para testes
 
 ###  Executar via terminal
 ```bash
